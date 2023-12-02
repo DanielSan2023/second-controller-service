@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32f1864b-027d-46be-a63b-64c2ef019d5c" name="Changes" comment="added Dependency Injection">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/engeto/controller/TeachersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +43,18 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DanielSan/EngetoExercisesMyself/Engeto2part/second-controller-service/target/second-contoller-1.1-SNAPSHOT.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DanielSan/EngetoExercisesMyself/Engeto2part/second-controller-service/src/main/resources&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DanielSan\EngetoExercisesMyself\Engeto2part\second-controller-service\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="dev" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/target/second-contoller-1.1-SNAPSHOT.jar" />
@@ -109,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701517915725</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added Dependency Injection">
+      <created>1701518601568</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701518601568</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
