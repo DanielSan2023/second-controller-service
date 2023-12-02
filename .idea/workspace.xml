@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32f1864b-027d-46be-a63b-64c2ef019d5c" name="Changes" comment="added StudentController">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/controller/StudentController.java" afterDir="false" />
+    <list default="true" id="32f1864b-027d-46be-a63b-64c2ef019d5c" name="Changes" comment="added Dependency Injection">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/repository/StudentRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/engeto/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/engeto/service/StudentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701514360999</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added StudentRepository">
+      <created>1701517874137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701517874137</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added Dependency Injection">
+      <created>1701517915725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701517915725</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +128,8 @@
     <MESSAGE value="added junit,springboot" />
     <MESSAGE value="added devconfiguration" />
     <MESSAGE value="added StudentController" />
-    <option name="LAST_COMMIT_MESSAGE" value="added StudentController" />
+    <MESSAGE value="added StudentRepository" />
+    <MESSAGE value="added Dependency Injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Dependency Injection" />
   </component>
 </project>
