@@ -1,13 +1,13 @@
 package com.engeto.model;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
 
 @Data
-public class Student {
+@AllArgsConstructor
+public class Teacher {
     private String name;
     private String surname;
     private int age;
-    private Long id;
-
 
 }
